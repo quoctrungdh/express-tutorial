@@ -1,7 +1,7 @@
 {
   "name": "express-tutorial",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://www.tutorialspoint.com/expressjs/index.htm",
   "main": "index.js",
   "scripts": {
     "start": "nodemon --inspect server/",
